@@ -1,1 +1,3 @@
 .ignorableFile.txt
+*.log
+log/
