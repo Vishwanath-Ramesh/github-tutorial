@@ -1,11 +1,3 @@
-# github-tutorial
+# Github Tutorial
 
-Udemy - Github learning
-
-#Area 1
-
-#Area 2
-
-#Area 3
-
-#Area 4
+## This repositry is created while learning GitHub
